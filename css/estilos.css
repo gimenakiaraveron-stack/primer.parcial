@@ -5,6 +5,11 @@ body{
     color: white;
     margin: 0;
 }
+header{
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 2rem;
+    text-align: center;
+}
 h1,h2 {
     font-family: "Glegoo", serif;
 }
