@@ -35,3 +35,9 @@ nav a{
 nav a:hover{
     background-color: #444;
 }
+.contenedor{
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.75);
+}
