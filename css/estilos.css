@@ -13,3 +13,25 @@ header{
 h1,h2 {
     font-family: "Glegoo", serif;
 }
+nav{
+    background-color: #222;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    margin: 0;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+}
+nav a:hover{
+    background-color: #444;
+}
