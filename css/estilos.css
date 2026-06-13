@@ -1,3 +1,10 @@
+body{
+    background-image:url("../img3/fondo.jpg") ;
+    background-size:cover ;
+    background-attachment: fixed;
+    color: white;
+    margin: 0;
+}
 h1,h2 {
     font-family: "Glegoo", serif;
 }
